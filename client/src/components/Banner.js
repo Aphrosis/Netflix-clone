@@ -37,7 +37,7 @@ const Banner = () => {
       >
         <div className="content">
           <h1>{state.name}</h1>
-         <span> <button className="btn ">Play</button>
+         <span> <button className="btn ">Playdd</button>
           <button className="btn ">Info</button></span>
          <p className="desc">{short()}</p>
         </div>
